@@ -1,0 +1,8 @@
+Subject: test message
+From:""< sender@mydomain.com>
+To:""< friend@example.com>
+
+Hello,
+This is a test.
+Goodbye.
+.
